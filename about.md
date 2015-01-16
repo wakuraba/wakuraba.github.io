@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+文字通り、邂逅（わくらば：まれに、偶然にの意）のなるままに書くブログ。
+書いている人間は語感が気に入ったのでそのまま「わくらば」と名乗ります。
 
-### More Information
+### とりあえずは
 
-A place to include any other types of information that you'd like to include about yourself. 
+文章書きや音楽作りを趣味としているので、そういった内容のものを書くかもしれませんし、本業はIT関連企業に務めているので、それに絡んだものとか、あとはPC関連の記事を書くかもしれません。
 
-### Contact me
+### 連絡先
 
-[email@domain.com](mailto:email@domain.com)
+[asylum@vertigo.blue](mailto:asylum@vertigo.blue)
